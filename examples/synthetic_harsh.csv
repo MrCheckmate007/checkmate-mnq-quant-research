@@ -1,0 +1,7 @@
+Trade number,Type,Date and time,Signal,Price USD,Size (qty),Size (value),Net PnL USD,Return %,Commission USD,Favorable excursion USD,Favorable excursion %,Adverse excursion USD,Adverse excursion %,Cumulative PnL USD,Cumulative PnL %
+1,Exit long,2026-01-01 09:00,SYNTHETIC STRESS,25009,1,50020,17,0.03,2,22,0.04,-8,-0.02,17,0.17
+1,Entry long,2026-01-01 08:30,SYNTHETIC STRESS,25000,1,50020,17,0.03,2,22,0.04,-8,-0.02,17,0.17
+2,Exit short,2026-01-02 09:00,SYNTHETIC STRESS,25021,1,50040,-13,-0.03,2,2,0,-18,-0.04,4,0.04
+2,Entry short,2026-01-02 08:30,SYNTHETIC STRESS,25015,1,50040,-13,-0.03,2,2,0,-18,-0.04,4,0.04
+3,Exit long,2026-01-03 09:00,SYNTHETIC STRESS,25029,1,50060,12,0.02,2,16,0.03,-10,-0.02,16,0.16
+3,Entry long,2026-01-03 08:30,SYNTHETIC STRESS,25020,1,50060,12,0.02,2,16,0.03,-10,-0.02,16,0.16

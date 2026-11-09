@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "checkmate-mnq-quant-research"
+version = "0.1.0"
+description = "Public-safe quantitative research validation helpers for TradingView MNQ reports"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["checkmate_quant*"]
